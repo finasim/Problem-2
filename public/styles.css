@@ -1,0 +1,26 @@
+body{
+    margin: 2px;
+    padding: 2px;
+}
+
+.header{
+    text-align: center;
+    font-size: larger;
+    font-family: sans-serif;
+    background-color: lavender;
+}
+
+div{
+    padding: 2px;
+    border: 2px;
+}
+
+img{
+    height: 400px;
+    max-width:100%;
+   
+}
+
+.product{
+    
+}
